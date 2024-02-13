@@ -1,0 +1,34 @@
+.imageBackground {
+  width: 90%;
+  max-width: 400px; 
+  height: auto; 
+  background-size: cover;
+  margin: 0 auto;
+  border-radius: 10px; 
+}
+
+.cardContent {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  padding: 20px; 
+}
+
+.referText {
+  margin-bottom: 10px; 
+  color: white;
+  text-align: center; 
+  font-weight: bold;
+}
+
+.referButton {
+  background-color: white;
+  border-radius: 5px;
+  padding: 8px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer; 
+  color: #8a2be2; 
+  font-weight: bold;
+}

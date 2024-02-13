@@ -1,0 +1,82 @@
+.outlet-location-container {
+  flex: 1;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.outlet-location-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  margin-bottom: 15px;
+}
+
+.outlet-location-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.outlet-location-earnMore {
+  margin-top: -10px;
+  margin-bottom: 13px;
+  padding: 0 20px;
+  font-size: 15px;
+}
+
+.outlet-location-tableContainer {
+  padding: 0 20px;
+}
+
+.outlet-location-row {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: -5px;
+}
+
+.outlet-location-card {
+  padding: 10px;
+}
+
+.outlet-location-infoContainer {
+  flex: 1;
+}
+
+.outlet-location-name {
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+.outlet-location-address {
+  color: grey;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.outlet-location-distanceContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.outlet-location-distance {
+  color: grey;
+  font-size: 15px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+.outlet-location-icon {
+  font-size: 30px;
+  margin-top: 5px; 
+  margin-right: 5px; 
+}
+
+.outlet-location-seeAllText {
+  margin-top: 10px;
+  margin-bottom: 13px;
+  margin-left: 25px;
+  color: orange;
+  font-weight: bold;
+  font-size: 16px;
+}
