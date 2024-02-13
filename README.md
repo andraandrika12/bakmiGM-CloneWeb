@@ -23,3 +23,8 @@ Alternatively, you can access the deployed version of this project by visiting t
 This project is created exclusively for learning and demonstration purposes. The hardcoded data is used to facilitate development and does not represent real data from the BakmiGM application.
 
 If you have any questions or feedback, feel free to reach out to me.
+
+## Screenshot
+
+![image](https://github.com/andraandrika12/bakmiGM-CloneWeb/assets/138641051/c5c785e2-11a7-4128-b521-d2a0c236794f)
+
