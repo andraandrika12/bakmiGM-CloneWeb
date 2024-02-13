@@ -1,0 +1,10 @@
+.HomeContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+.scrollContent {
+  padding-top: 180px;
+  background-color: white;
+}

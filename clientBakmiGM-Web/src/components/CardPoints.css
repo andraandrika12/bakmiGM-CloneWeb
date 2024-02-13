@@ -1,0 +1,45 @@
+.card {
+  border-radius: 5px;
+  margin-top: 5px;
+  border-width: 0.5px;
+  border-color: #ccc;
+  padding: 15px;
+  background-color: white;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.titleContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.projectTitle {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.points {
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.progressLabel {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+
+.seeDetails {
+  text-decoration-line: underline;
+  color: blue;
+}
+
+.bold {
+  font-weight: bold;
+}
+
