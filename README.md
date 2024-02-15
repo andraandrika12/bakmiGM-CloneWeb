@@ -7,6 +7,7 @@ Welcome to BakmiGM Mobile Browser-only Project! This project is part of a mini p
 ## Technology Used
 
 - React
+- Bootstrap
 
 ## Usage Guide
 
