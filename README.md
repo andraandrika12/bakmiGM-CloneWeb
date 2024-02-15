@@ -1,32 +1,32 @@
-# BakmiGM Mobile Browser-only Project
+## Proyek BakmiGM Mobile Browser-only
 
-## Description
+### Deskripsi
 
-Welcome to BakmiGM Mobile Browser-only Project! This project is part of a mini project assignment given by the company. The main goal of this project is to replicate the user interface (UI) of the BakmiGM application specifically for mobile browsers, utilizing React. Please note that this project is solely focused on frontend development and the data used is hardcoded for demonstration purposes.
+Selamat datang di Proyek BakmiGM Mobile Browser-only! Proyek ini merupakan bagian dari tugas mini yang diberikan oleh perusahaan. Tujuan utama dari proyek ini adalah untuk mereplikasi antarmuka pengguna (UI) aplikasi BakmiGM khusus untuk peramban mobile, dengan menggunakan React. Harap dicatat bahwa proyek ini hanya fokus pada pengembangan frontend dan data yang digunakan diharcode untuk tujuan demonstrasi.
 
-## Technology Used
+### Teknologi yang Digunakan
 
 - React
 - Bootstrap
 
-## Usage Guide
+### Panduan Penggunaan
 
-1. Clone this repository to your local machine.
-2. Navigate to the `frontend` directory.
-3. Run the command `npm install` to install all dependencies.
-4. After installation, start the development server by running `npm run dev`.
-5. Open your mobile browser and visit [http://localhost:5173] to view the application.
+1. Clone repositori ini ke mesin lokal.
+2. Arahkan ke direktori `clientBakmiGM-Web`.
+3. Jalankan perintah `npm install` untuk menginstal semua dependensi.
+4. Setelah instalasi, mulai server pengembangan dengan menjalankan `npm run dev`.
+5. Buka dan kunjungi [http://localhost:5173] untuk melihat Web tersebut.
 
-Alternatively, you can access the deployed version of this project by visiting the following link: [BakmiGM Mobile Browser-only](http://bakmigm-mobilebrowser-only.netlify.app)
+Sebagai alternatif, terdapat akses untuk versi yang dideploy dari proyek ini dengan mengunjungi tautan berikut: [BakmiGM Mobile Browser-only](http://bakmigm-mobilebrowser-only.netlify.app)
 
-## Note
+### Catatan
 
-This project is created exclusively for learning and demonstration purposes. The hardcoded data is used to facilitate development and does not represent real data from the BakmiGM application.
+Proyek ini dibuat secara eksklusif untuk tujuan pembelajaran dan demonstrasi. Data yang dihardcode digunakan untuk memudahkan pengembangan dan tidak mewakili data nyata dari aplikasi BakmiGM.
 
-If you have any questions or feedback, feel free to reach out to me.
+Jika memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya.
 
-## Screenshot
+### Tangkapan Layar
 
 ![bakmiGMMobileBrowser](https://github.com/andraandrika12/bakmiGM-CloneWeb/assets/138641051/b90897ba-b119-412f-aa90-0b136ba838ae)
 
-
+**Catatan:** Mohon diperhatikan bahwa fitur-fitur seperti slicker atau carousel pada item mungkin tidak dapat dijalankan saat hanya mengunjungi tautan alternatif dari deploy Netlify.com. Untuk menggunakan fitur-fitur tersebut, Anda harus menggunakan `localhost`.
