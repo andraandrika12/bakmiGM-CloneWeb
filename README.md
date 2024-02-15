@@ -29,4 +29,4 @@ Jika memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya.
 
 ![bakmiGMMobileBrowser](https://github.com/andraandrika12/bakmiGM-CloneWeb/assets/138641051/b90897ba-b119-412f-aa90-0b136ba838ae)
 
-**Catatan:** Mohon diperhatikan bahwa fitur-fitur seperti slicker atau carousel pada item mungkin tidak dapat dijalankan saat hanya mengunjungi tautan alternatif dari deploy Netlify.com. Untuk menggunakan fitur-fitur tersebut, Anda harus menggunakan `localhost`.
+**Catatan:** Mohon diperhatikan bahwa fitur-fitur seperti slicker atau carousel pada item mungkin tidak dapat dijalankan saat hanya mengunjungi tautan alternatif dari deploy Netlify.com. Untuk menggunakan fitur-fitur tersebut, harus menggunakan `localhost`.
