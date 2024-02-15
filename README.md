@@ -26,5 +26,6 @@ If you have any questions or feedback, feel free to reach out to me.
 
 ## Screenshot
 
-![image](https://github.com/andraandrika12/bakmiGM-CloneWeb/assets/138641051/c5c785e2-11a7-4128-b521-d2a0c236794f)
+![bakmiGMMobileBrowser](https://github.com/andraandrika12/bakmiGM-CloneWeb/assets/138641051/b90897ba-b119-412f-aa90-0b136ba838ae)
+
 
